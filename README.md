@@ -1,4 +1,3 @@
-# -csdt2223ki47kolosenkodo18
 Details about repo: This repository is created for "Computer systems design theory" subject. Name - "csdt2223ki47kolosenkodo18".
 
 Details about task1:
